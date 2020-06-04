@@ -25,3 +25,11 @@
 
 **Link to work:** [Repl](https://repl.it/@RafeeMuhammad/jumping-on-the-clouds#Main.java)
 
+### Day 4: June 3, 2020
+
+**Today's Progress**: Solved Repeating string
+
+**Thoughts:** This is the end of warm-up challanges. Now we will move on to the next challanges. Happy Coding :)
+
+**Link to work:** [Repl](https://repl.it/@RafeeMuhammad/Repeated-String#Main.java)
+
