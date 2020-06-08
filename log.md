@@ -33,3 +33,11 @@
 
 **Link to work:** [Repl](https://repl.it/@RafeeMuhammad/Repeated-String#Main.java)
 
+### Day 5: June 5, 2020
+
+**Today's Progress**: Solved 2D Array -DS
+
+**Thoughts:** Starting of new module Array. I solved the first problem. I need to boost me up.
+
+**Link to work:** [Repl](https://repl.it/@RafeeMuhammad/2d-array-DS#Main.java)
+
