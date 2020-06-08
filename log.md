@@ -41,3 +41,11 @@
 
 **Link to work:** [Repl](https://repl.it/@RafeeMuhammad/2d-array-DS#Main.java)
 
+### Day 6: June 9, 2020
+
+**Today's Progress**: Solved 
+
+**Thoughts:** Things getting hard as I think I need to think deep
+
+**Link to work:** [Repl](https://repl.it/@RafeeMuhammad/left-rotation)
+
