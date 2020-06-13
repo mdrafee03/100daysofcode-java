@@ -43,9 +43,17 @@
 
 ### Day 6: June 9, 2020
 
-**Today's Progress**: Solved 
+**Today's Progress**: Solved left rotation
 
 **Thoughts:** Things getting hard as I think I need to think deep
 
 **Link to work:** [Repl](https://repl.it/@RafeeMuhammad/left-rotation)
+
+### Day 7: June 13, 2020
+
+**Today's Progress**: Solved new year chaos
+
+**Thoughts:** I didn't solve it. I looked for code after trying it for hours. But at the end, it makes sense how to find out the solution for it. I have to run a long way.
+
+**Link to work:** [Repl](https://repl.it/@RafeeMuhammad/new-year-chaos)
 
